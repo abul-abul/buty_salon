@@ -1,0 +1,495 @@
+.servise_open_block{
+    height: 0px;
+    margin-bottom: 2px;
+    overflow: auto;
+}
+.profolio_bloks{
+	position: relative;
+	float:left;
+	width: 209px;
+    margin-left: 32px;
+    cursor:pointer;
+}
+.edit_review_text{
+    width: 243px;
+    height: 79px;
+    max-width: 243px;
+    max-height: 79px;
+    display: none;
+}
+.registration_text{
+    width: 182px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+}
+.update_user_review{
+    display: none;
+    float: left;
+    cursor: pointer;
+}
+.edit_user_rew{
+    float: left;
+}
+.rgba-red{
+	left: 3px;
+    top: 10px;
+    z-index: 1;
+    color: #fff;
+    padding: 4px 10px;
+    position: absolute;
+}
+.profile_pikcures{
+	cursor:pointer;
+}
+.profile_img_submit{
+    display: none;
+}
+.add-sertifikte{
+    display: none!important;
+}
+.add-diploma{
+    display: none!important;
+}
+
+.cols_profolio{
+    width: 26%!important;
+}
+.porfolio_sub{
+    margin: 6px 0 0 31px;
+}
+.profile_worker_pikcures{
+    cursor: pointer;
+}
+.custom-social{
+
+    display: block;
+    height: 30px;
+    width: 30px;
+}
+.language{
+    margin-left: -63px !important;
+    width: 129px !important;
+}
+
+.bx-clone .grid-item .inner{
+ width: 0px; 
+ overflow: hidden;
+}
+
+.prev_button{
+margin-left:2%;
+margin-bottom:300px;
+position:absolute; 
+z-index:1000;
+}
+.next_button{
+    margin-bottom: 300px;position: relative;margin-left: 100%;float: right;
+    z-index: 1000;margin-right:0px
+}
+#review_text{
+    width: 294px!important;
+    height: 75px;
+}
+.search_salons{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 12px!important;
+}
+.footer_ul{
+    padding: 0;
+    margin-top: 34px;    
+}
+.footer_ul li{
+    list-style: none;
+    margin-bottom: 12px;
+}
+.footer_ul li a{
+    text-decoration: none!important;
+    color: #fff;
+}
+.footer_ul li a:hover{
+    color: #e75247;
+}
+.follow_us{
+    font-size: 21px;
+    text-transform: uppercase;
+}
+
+.footer_social{
+    padding: 0;
+}
+.footer_social li{
+    list-style: none;
+    margin-bottom: 12px;
+    margin-top: 11px;
+}
+.footer_social li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer_social li a:hover{
+    color: #e75247;
+}
+
+#footer_socail_block{
+    margin-left: 211px;
+}
+#copy_footer{
+    width: 200px;
+    margin: 0 auto;
+}
+.salon_stra_block i{
+    color: red;
+    font-size: 18px;
+}
+.sub_block1{
+    display: block;
+    position: relative;
+    width: 50%;
+    float: right;
+    margin-top: 3px;
+}
+.unsubscrip_block{
+    display: none;
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    top: 40px;
+    background: #f72615;
+    left: 0;
+    text-transform: capitalize;
+    z-index: 3;
+}
+.unsubscripe:hover .unsubscrip_block{
+    display: block;
+}
+.unsubscripe{
+/*    position: absolute;*/
+    background: green;
+        margin-top: -46px;
+}
+.unsubscripe:hover{
+    background: green;
+}
+.unsub_a{
+    text-decoration: none;
+    color: #fff;
+}
+.unsub_a:hover{
+    color: #fff!important;
+}
+
+
+.sub_block2{
+    display: block;
+    position: relative;
+    float: right;
+    width: 172%;
+
+}
+.unsubscribe_block{
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 47px;
+    top: 40px;
+    background: #f72615;
+    left: 0;
+    text-transform: capitalize;
+    z-index: 3;
+}
+.unsubscribe_web:hover .unsubscribe_block{
+    display: block;
+}
+.unsubscribe_web{
+    background: green;
+}
+.unsubscribe_web:hover{
+    background: green;
+}
+.unsub_b{
+    text-decoration: none;
+    color: #fff;
+}
+.unsub_b:hover{
+    color: #fff!important;
+}
+
+.my_prfile:hover{
+    background:#f95446; 
+}
+.logout:hover{
+   background:#f95446;
+}
+
+@media screen and (max-width: 340px) {
+    .next_button{
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .next_slide{
+        margin-left: -130px;
+    }
+}
+@media screen and (max-width: 994px) {
+    .next_slide{
+        margin-left: -95px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .next_slide{
+        margin-left: -165px;
+    }
+}
+
+
+
+@media screen and (min-width: 1200px) {
+    .slide_next_button{
+        margin-left: -360px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .slide_next_button{
+        margin-left: -294px;
+    }
+}
+@media screen and (max-width: 994px) {
+    .slide_next_button{
+        margin-left: -219px;
+    }
+}
+
+
+@media screen and (min-width: 1200px) {
+    .next_img{
+        margin-left: 94.5% !important;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .next_img{
+        margin-left: 93% !important;
+    }
+}
+@media screen and (max-width: 994px) {
+    .next_img{
+        margin-left: 90% !important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .next_img{
+        margin-left: 86% !important;
+    }
+}
+@media screen and (max-width: 427px) {
+    .next_img{
+        margin-left: 80% !important;
+    }
+}
+@media screen and (max-width: 364px) {
+    .next_img{
+        margin-left: 64% !important;
+    }
+}
+
+
+
+
+@media screen and (max-width: 1200px) {
+    .next_a{
+       margin-right: 14% !important;
+    }
+    .prev_a{
+       margin-left: 6%  !important;
+    }
+}
+@media screen and (max-width: 990px) {
+    .next_a{
+       margin-right: 21% !important;
+    }
+    .prev_a{
+       margin-left: 4%  !important;
+    }
+}
+@media screen and (max-width: 750px) {
+    .next_a{
+       margin-right: 23% !important;
+    }
+    .prev_a{
+       margin-left: 3%  !important;
+    }
+}
+@media screen and (max-width: 708px) {
+    .next_a{
+       margin-right: 25.5% !important;
+    }
+    .prev_a{
+       margin-left: 2%  !important;
+    }
+}
+@media screen and (max-width: 640px) {
+    .next_a{
+       margin-right: 25% !important;
+    }
+    .prev_a{
+       margin-left: 1%  !important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .next_a{
+       margin-right: 32% !important;
+    }
+    .prev_a{
+       margin-left: 1%  !important;
+    }
+}
+@media screen and (max-width: 570px) {
+    .next_a{
+       margin-right: 35% !important;
+    }
+    .prev_a{
+       margin-left: 1%  !important;
+    }
+}
+@media screen and (max-width: 530px) {
+    .next_a{
+       margin-right: 40% !important;
+    }
+}
+
+@media screen and (max-width: 504px) {
+    .next_a{
+       margin-right: 45% !important;
+    }
+}
+@media screen and (max-width: 455px) {
+    .next_a{
+       margin-right: 50% !important;
+    }
+}
+@media screen and (max-width: 400px) {
+    .next_a{
+       margin-right: 65.5% !important;
+    }
+    .prev_a{
+       margin-left: 1%  !important;
+    }
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    .del_next{
+        margin-right: 18% !important;
+    }
+}
+@media screen and (max-width: 990px) {
+    .del_next{
+        margin-right: 19% !important;
+    }
+    .del_prev{
+        margin-left: 1%  !important;
+    }
+}
+@media screen and (max-width: 775px) {
+    .del_next{
+        margin-right: 24% !important;
+    }
+    .del_prev{
+        margin-left: 6% !important;
+    }
+}
+@media screen and (max-width: 708px) {
+    .del_next{
+       margin-right: 25.5% !important;
+    }
+    .del_prev{
+       margin-left: 2%  !important;
+    }
+}
+@media screen and (max-width: 640px) {
+    .del_next{
+       margin-right: 25% !important;
+    }
+    .del_prev{
+       margin-left: 1%  !important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .del_next{
+       margin-right: 32% !important;
+    }
+    .del_prev{
+       margin-left: 1%  !important;
+    }
+}
+@media screen and (max-width: 570px) {
+    .del_next{
+       margin-right: 35% !important;
+    }
+    .del_prev{
+       margin-left: 1%  !important;
+    }
+}
+@media screen and (max-width: 530px) {
+    .del_next{
+       margin-right: 40% !important;
+    }
+}
+
+@media screen and (max-width: 504px) {
+    .del_next{
+       margin-right: 45% !important;
+    }
+}
+@media screen and (max-width: 455px) {
+    .del_next{
+       margin-right: 50% !important;
+    }
+}
+@media screen and (max-width: 400px) {
+    .del_next{
+       margin-right: 65.5% !important;
+    }
+    .del_prev{
+       margin-left: 1%  !important;
+    }
+}
+
+
+
+
+
+.salon_category_services:hover{
+    cursor: pointer;
+    color:#f95446;
+}
+.modal_body_services {
+    font-size: 20px;
+}
+.modal_service{
+    display: inline-block;
+    font-size: 16px;
+}
+.modal_price{
+    display: inline-block;
+    float: right;
+    font-size: 18px;
+
+}
+.show_more_review{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 770px) {
+.textarea_review{
+    width:400px;
+}
+

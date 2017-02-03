@@ -1,0 +1,1827 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: US Green Card Office\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-19 21:11+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Inga B Molin <ingabmolin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Users/simonjensen/Code/PHP/usgreencardoffice.com\n"
+"X-Poedit-SearchPath-0: /Users/simonjensen/Code/PHP/usgreencardoffice.com\n"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:59
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:168
+msgid "Photo of"
+msgstr "Foto av"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:59
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:168
+msgid "uploaded, waiting for photo to be approved"
+msgstr "uppladdat, väntar på att fotot ska godkännas"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:79
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:198
+msgid "Photo uploaded"
+msgstr "Fotot uppladdat"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:81
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:200
+msgid "Your photo has been uploaded, please crop if necessary to adjust the photo (please read instructions carefully)"
+msgstr "Ditt foto har laddats upp, beskär om det är nödvändigt för att anpassa fotot (vänligen läs instruktionerna noggrant)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:82
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:201
+msgid "When done please save your photo in the right panel and upload your next photo (if any)"
+msgstr "När du har gjort det, spara fotot i rätt fält och ladda upp nästa foto (om du har något)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:91
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:206
+msgid "Unable to upload photo"
+msgstr "Kan inte ladda upp fotot"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:95
+msgid "Unable to determin your customer id"
+msgstr "Kan inte fastställa din kund-identitet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:210
+msgid "Unable to determin your family members id"
+msgstr "Kan inte fastställa din familjemedlems identitet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:245
+msgid "The photo was cropped"
+msgstr "Fotot har beskurits"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:248
+msgid "An error occured during cropping"
+msgstr "Ett fel uppstod vid beskärning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:269
+msgid "You may ONLY use the English alphabet (A to Z) in your Applications form"
+msgstr "Du kan BARA använda engelskt alfabet (A till Z) i ditt ansökningsformulär"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:278
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:90
+msgid "City cannot be empty"
+msgstr "Stad kan inte vara tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:283
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:98
+msgid "Postal code cannot be empty"
+msgstr "Postkod kan inte vara tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:287
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:102
+msgid "Country cannot be empty"
+msgstr "Land kan inte vara tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:293
+msgid "Phone number cannot be empty"
+msgstr "Telefonnummer kan inte vara tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:300
+msgid "Please provide a valid e-mail address"
+msgstr "Var vänlig uppge en giltig e-post adress"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:325
+msgid "Your information has been updated"
+msgstr "Din information har uppdaterats"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/applicant.php:327
+msgid "Error updating your information"
+msgstr "Ett fel uppstod under uppdatering av din information"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:40
+msgid "You may ONLY use the English alphabet (A to Z) in the Applications form"
+msgstr "Du får BARA använda Engelskt alfabet (A till Z) i ansökningsformuläret"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:45
+msgid "Firstname cannot be empty"
+msgstr "Förnamn kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:50
+msgid "Lastname cannot be empty"
+msgstr "Efternamn kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:54
+msgid "You must select a gender"
+msgstr "Du måste välja kön"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:59
+msgid "Day of birth cannot be empty"
+msgstr "Födelsedag kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:63
+msgid "Month of birth cannot be empty"
+msgstr "Födelsemånad kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:67
+msgid "Year of birth cannot be empty"
+msgstr "Födelseår kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:73
+msgid "City of birth cannot be empty"
+msgstr "Födelsestad kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:77
+msgid "Country of birth cannot be empty"
+msgstr "Födelseland kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:81
+msgid "Native country cannot be empty"
+msgstr "Fosterland kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:86
+msgid "Address cannot be empty"
+msgstr "Adressfältet kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:94
+msgid "Region cannot be empty"
+msgstr "Region kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:109
+msgid "Phone cannot be empty"
+msgstr "Telefon kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:117
+msgid "E-mail cannot be empty"
+msgstr "E-post kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:121
+msgid "Confirmation e-mail cannot be empty"
+msgstr "Bekräftelse av e-post kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:124
+msgid "Confirmation e-mail is different from e-mail"
+msgstr "Bekräftelse av e-post skiljer sig från e-post"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:127
+msgid "E-mail or confirmation e-mail does not seem to be valid"
+msgstr "E-post eller bekräftelse e-post verkar inte vara giltig"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:132
+msgid "You must select your level of education"
+msgstr "Du måste välja din utbildningsnivå"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:137
+msgid "You must select your marital status"
+msgstr "Du måste välja civilstånd"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:144
+msgid "Spouse firstname cannot be empty"
+msgstr "Make/makas förnamn kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:149
+msgid "Spouse lastname cannot be empty"
+msgstr "Make/makas efternamn kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:153
+msgid "Spouse gender cannot be empty"
+msgstr "Make/makas kön kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:158
+msgid "Spouse day of birth cannot be empty"
+msgstr "Make/makas födelsedag kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:162
+msgid "Spouse month of birth cannot be empty"
+msgstr "Make/makas födelsemånad kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:166
+msgid "Spouse year of birth cannot be empty"
+msgstr "Make/makas födelseår kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:172
+msgid "Spouse city of birth cannot be empty"
+msgstr "Make/makas födelsestad kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:176
+msgid "Spouse country of birth cannot be empty"
+msgstr "Make/makas födelseland kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:180
+msgid "Spouse native country cannot be empty"
+msgstr "Make/makas fosterland kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:184
+msgid "You must select your level of education for your spouse"
+msgstr "Du måste välja make/makas utbildningsnivå"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:195
+msgid "Child firstname cannot be empty"
+msgstr "Barns förnamn kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:200
+msgid "Child lastname cannot be empty"
+msgstr "Barns efternamn kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:204
+msgid "Child gender cannot be empty"
+msgstr "Barns kön kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:209
+msgid "Child day of birth cannot be empty"
+msgstr "Barns födelsedag kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:213
+msgid "Child month of birth cannot be empty"
+msgstr "Barns födelsemånad kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:217
+msgid "Child year of birth cannot be empty"
+msgstr "Barns födelseår kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:223
+msgid "Child city of birth cannot be empty"
+msgstr "Barns födelsestad kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:227
+msgid "Child country of birth cannot be empty"
+msgstr "Barns födelseland kan inte lämnas tomt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:259
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:354
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:361
+msgid "Unable to save information about your spouse"
+msgstr "Kan inte spara information om din make/maka"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:284
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:411
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:421
+msgid "Unable to save information about child"
+msgstr "Kan inte spara information om barn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:299
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:450
+msgid "Error saving your information"
+msgstr "Det uppstod ett fel när din information skulle sparas"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:476
+msgid "Child"
+msgstr "Barn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:481
+msgid "Firstname"
+msgstr "Förnamn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:485
+msgid "Middlename"
+msgstr "Mellannamn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:492
+msgid "Lastname"
+msgstr "Efternamn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:496
+msgid "Gender"
+msgstr "Kön"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:498
+msgid "Please select"
+msgstr "Vänligen välj"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:499
+msgid "Male"
+msgstr "Man"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:500
+msgid "Female"
+msgstr "Kvinna"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:507
+msgid "Date of Birth"
+msgstr "Födelsedatum"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:509
+msgid "Year"
+msgstr "År"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:518
+msgid "Month"
+msgstr "Månad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:519
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "Januar"
+msgstr "Januari"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:520
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "February"
+msgstr "Februari"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:521
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "Marts"
+msgstr "Mars"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:522
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "April"
+msgstr "April"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:523
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "May"
+msgstr "Maj"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:524
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "June"
+msgstr "Juni"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:525
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "July"
+msgstr "Juli"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:526
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "August"
+msgstr "Augusti"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:527
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "September"
+msgstr "September"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:528
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "October"
+msgstr "Oktober"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:529
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "November"
+msgstr "November"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:530
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:913
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1158
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1290
+msgid "December"
+msgstr "December"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:534
+msgid "Day"
+msgstr "Dag"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:547
+msgid "City of Birth"
+msgstr "Födelsestad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:557
+msgid "Country of Birth"
+msgstr "Födelseland"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:736
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:790
+msgid "Your payment has been registered"
+msgstr "Din betalning har registrerats"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:753
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:807
+msgid "A welcome e-mail has been sent to your e-mail address"
+msgstr "Ett välkomstbrev har skickats till din e-post adress"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:765
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:819
+msgid "Sorry, There has been a problem with the transaction. Your credit card has NOT been charged."
+msgstr "Ledsen, det har uppstått ett problem med transaktionen. Ditt kreditkort har INTE debiterats."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:767
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:820
+msgid "If you have problems using your Credit Card please call our HOTLINE on +44 207 100 1469, between 11:00 a.m. and 4:00 p.m. GMT."
+msgstr "Om du har problem med att använda ditt Kredit Kort vänligen ring vår DIREKTLINJE +44 207 100 1469, mellan 11:00 och 16:00. GM"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:768
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:821
+msgid "Or email us on <a href=\"mailto:support@usgco.com\">support@usgco.com</a> and we will investigate the problem and get back to you."
+msgstr "Eller skriv till oss på <a href=\"mailto:support@usgco.com\">support@usgco.com</a> och vi kommer att undersöka problemet och kontakta dig."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:769
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:822
+msgid "<a href=\"#payment\">Click here</a> to try again"
+msgstr "<a href=\"#payment\">Klicka här</a> till försök igen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:858
+msgid "Your application has been removed"
+msgstr "Din ansökan har tagits bort"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:861
+msgid "Error removing your application"
+msgstr "Det uppstod ett fel med att ta bort din ansökan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/apply.php:864
+msgid "Unable to verify your customer number"
+msgstr "Kan inte bekräfta ditt kundnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:29
+msgid "Error in login"
+msgstr "Fel i login"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:53
+msgid "Customer number is not valid"
+msgstr "Kundnummer är inte giltigt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:57
+msgid "Password is not valid"
+msgstr "Lösenordet är inte giltigt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:75
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:78
+msgid "There was an error in your login"
+msgstr "Det blev ett fel i din inloggning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:118
+msgid "Please enter a valid e-mail address"
+msgstr "Vänligen ange en giltig e-post adresss"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:130
+msgid "You customer number has been send to your e-mail"
+msgstr "Ditt kundnummer har skickats till din e-postadress"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:133
+msgid "An error occured, trying to send you your customer number"
+msgstr "Det uppstod ett fel när vi försökte skicka ditt kundnummer till dig"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/actions/login.php:136
+msgid "Unable to find a user with that e-mail"
+msgstr "Kan inte hitta en användare med den e-postadressen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1066
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1210
+msgid "Primary school only"
+msgstr "Endast grundskola"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1067
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1211
+msgid "High school, no degree"
+msgstr "Högskola, ingen examen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1068
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1212
+msgid "High school degree"
+msgstr "Högskoleexamen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1069
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1213
+msgid "Vocational School"
+msgstr "Yrkesskola/yrkesutbildning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1070
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1214
+msgid "Some University Courses"
+msgstr "Några universitetskurser"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1073
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1217
+msgid "University Degree"
+msgstr "Universitetsexamen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1074
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1218
+msgid "Some Graduate Level Courses"
+msgstr "Några magisternivå kurser"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1075
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1219
+msgid "Master Degree"
+msgstr "Magister examen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1076
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1220
+msgid "Some Doctorate Level Degree"
+msgstr "Viss examen på forskarnivå"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1077
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/admin/applicants.php:1221
+msgid "Doctorate Degree"
+msgstr "Forskarexamen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:83
+msgid "No server specified"
+msgstr "Ingen server angiven"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:91
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:103
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:124
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:247
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:301
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:312
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:360
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:394
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:427
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:526
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:549
+msgid "Error "
+msgstr "Fel"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:116
+msgid "no login ID submitted"
+msgstr "Ingen inloggnings ID angiven"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:119
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:139
+msgid "connection not established"
+msgstr "Ingen anslutning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:136
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:172
+msgid "No password submitted"
+msgstr "Inget lösenord angivet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:144
+msgid "Authentication failed"
+msgstr "Autentisering misslyckades"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:163
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:206
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:231
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:273
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:347
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:387
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:417
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:451
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:514
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:582
+msgid "No connection to server"
+msgstr "Ingen anslutning till server"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:169
+msgid "No login ID submitted"
+msgstr "Ingen inloggnings ID angiven"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:177
+msgid "No server banner"
+msgstr "Ingen server banderoll"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:177
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:187
+msgid "abort"
+msgstr "avbryt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:187
+msgid "apop authentication failed"
+msgstr "en pop autentisering misslyckades"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:324
+msgid "Premature end of list"
+msgstr "För tidigt slut på lista"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:457
+msgid "Empty command string"
+msgstr "Tom kommandosträng"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:477
+msgid "connection does not exist"
+msgstr "anslutning finns inte"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:587
+msgid "No msg number submitted"
+msgstr "Inget meddelandenummer angivet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/blog/wp-includes/class-pop3.php:593
+msgid "Command failed "
+msgstr "Kommando misslyckades"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.image.php:126
+msgid "Width and height of image must be minimum 600 pixels"
+msgstr "Bredd och höjd på bilden måste vara minst 600 pixlar"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:26
+msgid "Green Card, Green Card Lottery, usa green card, usa visa lottery - Green Card Office"
+msgstr "Grönt Kort, Grönt Kort Lotteri, usa grönt kort, usa viserings lotteri - Grönt Kort Kontor"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:27
+msgid "US Green Card Office provide Green Card lottery application service, get the best changes to win the visa lottery so you can live and work in the USA. Enter the USA DV (diversity visa) program online today. Guarantees Error Free Application"
+msgstr "US Grönt Kort Kontor ger Grönt Kort Lotteri ansöknings service, skaffa dig bästa chansen att vinna viseringslotteriet så att du kan bo och arbeta i USA. Anmäl dig till USA DV (visum mångfald) programmet online idag. Garanterar Felfri Ansökan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:28
+msgid "green card lottery, usa green card, usa visa lottery, green card, greencard, american green card, immigration"
+msgstr "grönt kort lotteri, usa grönt kort, usa visumlotteri, grönt kort, gröntkort, amerikanskt grönt kort, invandring/immigration"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:111
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:112
+msgid "US Green Card Lottery"
+msgstr "US Green Card Lotteri"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:118
+msgid "Home"
+msgstr "Startsida"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:119
+msgid "Introduction"
+msgstr "Introduktion"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:120
+msgid "Apply today"
+msgstr "Ansök idag"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:123
+msgid "Qualifying countries"
+msgstr "Kvalificerade länder"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:124
+msgid "Help"
+msgstr "Hjälp"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:125
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:152
+msgid "Languages"
+msgstr "Språk"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:207
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:215
+msgid "Log out"
+msgstr "Logga ut"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:209
+msgid "Your account"
+msgstr "Ditt konto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:220
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:228
+msgid "Login"
+msgstr "Logga in"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:222
+msgid "Your customer number..."
+msgstr "Ditt kundnummer..."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:223
+msgid "Your password..."
+msgstr "Ditt lösenord..."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:236
+msgid "Subscribe to newsletter"
+msgstr "Abonnera till vårt e-informationsblad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:238
+msgid "Your e-mail here..."
+msgstr "Din e-post här..."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:239
+msgid "Your name here..."
+msgstr "Ditt namn här..."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:241
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:245
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:246
+msgid "Chat with one of our Green Card experts right now"
+msgstr "Prata med en av våra Grönt Kort experter just nu"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:250
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:251
+msgid "Apply today!"
+msgstr "Ansök idag!"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:255
+msgid "We use the highest form of security when handling your payment"
+msgstr "Vi använder högsta form av säkerhet när vi hanterar din betalning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:257
+msgid "Secured with SSL Encryption"
+msgstr "Säkrad med SSL Kryptering"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:345
+msgid "More Information"
+msgstr "Mer Information"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:360
+msgid "Existing Customers"
+msgstr "Befintliga Kunder"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:362
+msgid "See status of your application"
+msgstr "Se status för din ansökan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:366
+msgid "About the USA"
+msgstr "Om USA"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:413
+msgid "Opportunities"
+msgstr "Möjligheter"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:425
+msgid "Unsubscribe to newsletter"
+msgstr "Avsluta prenumeration av nyhetsbrev"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:433
+msgid "&copy; Copyright 2008-2010 US Green Card Office Ltd."
+msgstr "&copy; Copyright 2008-2010 US Green Card Office Ltd."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:435
+msgid "The United States of America"
+msgstr "Amerikas Förenta Stater"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:435
+msgid "The White House website"
+msgstr "Vita Husets hemsida"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:435
+msgid "The official website of the United States"
+msgstr "Officiell  webbsida för Amerikas Förenta Stater"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.site.php:437
+msgid "US Green Card Office is a private company and not a governmental agency"
+msgstr "US Grönt Kort Kontor är ett privat företag och inte ett statligt organ"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:46
+msgid "Contact from US Green Card Office"
+msgstr "Kontakt från US Grönt Kort Kontor"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:91
+msgid "Your payment has been received"
+msgstr "Din betalning har mottagits"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:138
+msgid "Your customer number for The US Green Card Office"
+msgstr "Ditt kundnummer för US Grönt Kort Kontor"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:183
+msgid "Your Green Card Application has today been approved"
+msgstr "Din Grönt Kort Ansökan har godkänts idag"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:231
+msgid "Your Green Card Application has today been submitted online"
+msgstr "Din Green Card ansökan har skickats online idag"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:280
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:410
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:540
+msgid "Green Card payment reminder"
+msgstr "Green Card betalningspåminnelse"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:302
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:432
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:562
+msgid "Order ID"
+msgstr "Order ID"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:305
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:435
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:565
+msgid "Created"
+msgstr "Skapad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:313
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:443
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:573
+msgid "Product ID"
+msgstr "Produkt ID"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:316
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:446
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:576
+msgid "Product name"
+msgstr "Produkt namn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:320
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:450
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:580
+msgid "Product price"
+msgstr "Produkt pris"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:336
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:338
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:466
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:468
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:596
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:598
+msgid "One Green Card Lottery"
+msgstr "Ett Green Card Lotteri"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:340
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:342
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:470
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:472
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:600
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:602
+msgid "Two Green Card Lottery"
+msgstr "Två Green Card Lotterier"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:357
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:487
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:617
+msgid "Total"
+msgstr "Summa"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:667
+msgid "Please remember to upload your photo(s)"
+msgstr "Vänligen kom ihåg att ladda upp ditt/dina foto(n)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:717
+msgid "Your photo(s) has been declined, please resubmit"
+msgstr "Ditt/Dina foto(n) har avslagits, var vänlig och skicka igen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:765
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/classes/class.usgcomail.php:817
+msgid "Green Card application reminder"
+msgstr "Grönt Kort ansökningspåminnelse"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-contact.php:16
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:16
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:18
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:16
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-status.php:16
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:16
+msgid "Account"
+msgstr "Konto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-contact.php:19
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:19
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:19
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-status.php:19
+msgid "Back to account"
+msgstr "Tillbaka till konto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-contact.php:22
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:151
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:156
+msgid "Contact US Green Card Office Ltd."
+msgstr "Kontakta US Green Card Office Ltd."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-contact.php:32
+msgid "Question"
+msgstr "Fråga"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-contact.php:36
+msgid "Send question"
+msgstr "Skicka fråga"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:22
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:138
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:143
+msgid "Edit personal information"
+msgstr "Ändra personlig information"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:26
+msgid "Here you edit and update your personal information"
+msgstr "Här kan du ändra och uppdatera din personliga information"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:36
+msgid "Name"
+msgstr "Namn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:44
+msgid "Mailing address"
+msgstr "Postadress"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:52
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:73
+msgid "City"
+msgstr "Stad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:60
+msgid "Region"
+msgstr "Region"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:68
+msgid "Postal code"
+msgstr "Postnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:76
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:81
+msgid "Country"
+msgstr "Land"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:86
+msgid "Phone"
+msgstr "Telefon"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:92
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:123
+msgid "Country Code"
+msgstr "Landskod"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:95
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:126
+msgid "Area Code"
+msgstr "Riktnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:98
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:129
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:117
+msgid "Mobile Phone"
+msgstr "Mobiltelefon"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:148
+msgid "E-mail"
+msgstr "E-post"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-info.php:160
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:21
+msgid "Back to account photo(s)"
+msgstr "Tillbaka till kontots foto(n)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:24
+msgid "Photo crop"
+msgstr "Beskärning av foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:28
+msgid "Here you can crop your uplaoded photo"
+msgstr "Här kan du beskära ditt uppladdade foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:45
+msgid "Result of your crop"
+msgstr "Resultat av din beskärning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:60
+msgid "Save"
+msgstr "Spara"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:64
+msgid "Photo to crop"
+msgstr "Foto att beskära"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo-crop.php:115
+msgid "Unable to determin what photo you want to crop"
+msgstr "Kan inte fastställa vilket foto du önskar beskära"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:22
+msgid "Photo upload"
+msgstr "Ladda upp foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:26
+msgid "Here you can upload photos of you and all your family members (if any)"
+msgstr "Här kan du ladda up foton på dig och alla dina familjemedlemmar (om några)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:32
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:44
+msgid "Your photo"
+msgstr "Ditt foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:50
+msgid "Your photo has NOT been approved, please carefully follow the instructions below and upload a new photo"
+msgstr "Ditt foto har INTE godkänts, var vänlig och följ noggrant instruktionerna här nedan och ladda upp ett nytt foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:58
+msgid "Your image has not beed approved yet, and you can still change it"
+msgstr "Din blid har inte godkänts än, och du kan fortfarande ändra den"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:61
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:147
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:227
+msgid "Crop image"
+msgstr "Beskär bild"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:67
+msgid "Your photo has been approved"
+msgstr "Ditt foto har godkänts"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:93
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:179
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:267
+msgid "Select a photo"
+msgstr "Välj ett foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:99
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:186
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:275
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:113
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:130
+msgid "Your spouse photo"
+msgstr "Din make/makas foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:136
+msgid "Your spouse has NOT been approved, please carefully follow the instructions below and upload a new photo"
+msgstr "Din make/maka har INTE godkänts, vänligen följ noggrant instruktionerna nedan och ladda upp ett nytt foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:144
+msgid "Your spouse image has not beed approved yet, and you can still change it"
+msgstr "Din make/makas bild har ännu inte godkänts, och du kan fortfarande ändra den"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:153
+msgid "Your spouse photo has been approved"
+msgstr "Din make/makas foto har godkänts"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:202
+msgid "Your kids photo(s)"
+msgstr "Dina barns foto(n)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:218
+msgid "photo"
+msgstr "Foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:224
+msgid "photo has NOT been approved, please carefully follow the instructions below and upload a new photo"
+msgstr "Fotot har INTE godkänts, vänligen följ noggrant instruktionerna nedan och ladda upp ett nytt foto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:235
+msgid "image has not beed approved yet, and you can still change it"
+msgstr "Bilden har ännu inte godkänts, och du kan fortfarande ändra den"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:241
+msgid "photo has been approved"
+msgstr "fotot har godkänts"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:292
+msgid "All submitted digital images must follow these specifications"
+msgstr "Alla inskickade digitala bilder måste följa de här specifikationerna"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:295
+msgid "Photo Requirements"
+msgstr "Foto krav"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:297
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:332
+msgid "600 x 600 pixels"
+msgstr "600 x 600 pixlar"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:298
+msgid "The submitted image must adhere to the following specifications"
+msgstr "Den skickade bilden måst följa de här specifikationerna"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:299
+msgid "Photographs submitted must be a recent photograph, taken within the last 6 months"
+msgstr "Inskickade fotografier måste vara nytagna, inom de 6 senaste månaderna"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:302
+msgid "Image Acquisition"
+msgstr "Bild anskaffning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:304
+msgid "The image file may be produced by acquiring an image with a digital camera or by digitizing a paper photograph with a scanner"
+msgstr "Bildfilen kan skapas genom att man tar en bild med digitalkamera eller genom att skanna ett pappersfotografi"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:305
+msgid "Digital enhancement or other alterations or retouching are not permitted"
+msgstr "Digital förbättring eller andra ändringar eller retuscheringar är inte tillåtna"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:306
+msgid "The original aspect ratio of the image must be preserved. (No image stretching is allowed)"
+msgstr "De ursprungliga proportionerna på bilden måste behållas. (Ingen bildsträckning  är tillåten)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:309
+msgid "Compositional Specifications"
+msgstr "Sammansättnings specifikationer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:311
+msgid "The image must contain the full face, neck, and shoulders of the applicant in frontal view with a neutral, non-smiling expression and with eyes open and directed at the camera"
+msgstr "Bilden måste innehålla hela ansiktet, nacken, och axlarna av sökanden, fotograferad framifrån, med ett neutralt ej leende ansiktsuttryck, och med öppna ögon som tittar direkt in i kameran"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:312
+msgid "The image must not contain any parts of the body below the applicant's shoulders"
+msgstr "Bilden får inte innehålla andra delar av kroppen nedanför sökandens axlar"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:313
+msgid "The image must not include other objects or additional people)"
+msgstr "Bilden får inte innehålla andra föremål eller ytterligare människor"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:314
+msgid "Applicant must be vertically oriented in the image"
+msgstr "Sökanden skall vara placerad vertikalt i bilden"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:315
+msgid "The image must be from a recent (within 6 months) photo of the applicant"
+msgstr "Bilden måste vara från ett nytaget (inom 6 månader) fotografi av sökanden"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:318
+msgid "Head Position"
+msgstr "Huvudets position"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:320
+msgid "Subject must directly face the camera"
+msgstr "Föremålet måste titta direkt in i kameran"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:321
+msgid "Head must not be tilted up, down, or to the side"
+msgstr "Huvudet får inte lutas uppåt, nedåt eller åt sidan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:322
+msgid "The head height (measured from the top of the head, including the hair, to the bottom of the chin) must be between 50% and 69% of the image’s total height. The eye height (measured from the bottom of the image to the level of the eyes) should be between 56% and 69% of the image's height. The diagram below shows these measurements on a correctly-proportioned image"
+msgstr "Huvudhöjd (mätt från hjässan, inklusive håret, till hakspetsen) måste vara mellan 50 % och 69 % av bildens totala höjd. Ögonhöjd (mätt från bildens botten till ögonnivå) bör vara mellan 56 % och 69 % av bildens höjd. Figuren nedan visar de här mätningarna på en korrekt avvägd bild"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-photo.php:325
+msgid "Picture examples"
+msgstr "Bildexempel"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-status.php:22
+msgid "Status"
+msgstr "Status"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-status.php:26
+msgid "Here you can follow your application status"
+msgstr "Här kan du följa din ansökningsstatus"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account-status.php:60
+msgid "No status messages found"
+msgstr "Inget statusmeddelande hittat"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:19
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:19
+msgid "to your personal menu"
+msgstr "till din personliga meny"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:22
+msgid "Here you can follow the process of you application and ask questions to US Green Card Office Ltd."
+msgstr "Här kan du följa hanteringen av din ansökan och ställa frågor till US Green Card Office Ltd."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:25
+msgid "Your customer number is"
+msgstr "Ditt kundnummer är"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:31
+msgid "Your options"
+msgstr "Dina alternativ"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:42
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:57
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:72
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:75
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:95
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:100
+msgid "Participation instructions"
+msgstr "Instruktioner för deltagande"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:47
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:62
+msgid "Product and Payment"
+msgstr "Produkt och Betalning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:81
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:84
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:108
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:113
+msgid "Upload your photo(s)"
+msgstr "Ladda upp ditt/dina foto(n)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:125
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/account.php:130
+msgid "See your application status"
+msgstr "Se din ansökningsstatus"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:8
+msgid "Affiliate signup"
+msgstr "Affiliate registrering"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:28
+msgid "Welcome to The US Green Card Office Affiliate Program"
+msgstr "Välkommen till US Green Card Offices Affiliate Program"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:29
+msgid "You will recieve an e-mail when your request has been approved"
+msgstr "Du kommer att få ett e-postmeddelande när din begäran har godkänts"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:39
+msgid "E-mail (Username)"
+msgstr "E-postadress (Användarnamn)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:43
+msgid "First name"
+msgstr "Förnamn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:47
+msgid "Last name"
+msgstr "Efternamn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:51
+msgid "Referral ID"
+msgstr "Referent ID"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:61
+msgid "Website URL"
+msgstr "Webbsides URL"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:65
+msgid "Company name"
+msgstr "Företagsnamn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:69
+msgid "Street"
+msgstr "Gata"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:77
+msgid "State"
+msgstr "Stat"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/affiliate-signup.php:92
+msgid "I confirm that I agree with terms & conditions"
+msgstr "Jag bekräftar att jag godkänner villkor och krav"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:8
+msgid "Apply for the US Green Card Lottery"
+msgstr "Ansök om US Green Card Lotteri"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:29
+msgid "You must complete step 1 in order to get here"
+msgstr "Du måste slutföra steg 1 för att komma hit"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:37
+msgid "You are logged in as a customer who has already applied"
+msgstr "Du är inloggad som en kund som redan ansökt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:63
+msgid "Please choose your Green Card Lottery Application Plan"
+msgstr "Vänligen välj din Green Card Lotteri ansökningsplan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:72
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:216
+msgid "Standard"
+msgstr "Standard"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:72
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:108
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:216
+msgid "Plan"
+msgstr "Plan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:92
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:124
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:160
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:192
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:232
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:264
+msgid "Price"
+msgstr "Pris"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:103
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:135
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:171
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:203
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:243
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:275
+msgid "Order now"
+msgstr "Beställ Nu"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:108
+msgid "Saver"
+msgstr "Sparare"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:140
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:248
+msgid "Most"
+msgstr "Mest"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:140
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:248
+msgid "Popular Plan"
+msgstr "Populär Plan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:141
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:177
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:249
+msgid "Two Green Card Lotteries"
+msgstr "Två Green Card Lotterier"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:176
+msgid "Best"
+msgstr "Bästa"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:176
+msgid "Offer"
+msgstr "Erbjudande"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:292
+msgid "Back"
+msgstr "Tillbaka"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step2.php:314
+msgid "Apply Green Card Form - New official Green Card Application"
+msgstr "Green Card Ansökningsformulär - Ny officiell Green Card ansökan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:29
+msgid "You must complete step 1 and 2, in order to get here"
+msgstr "Du måste slutföra steg 1 och 2, för att komma hit"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:61
+msgid "Additional offers to your Green Card Lottery Application Plan"
+msgstr "Ytterligare erbjudanden till din Green Card Lotteri ansökningsplan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:71
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:119
+msgid "FREE MOVEMENT"
+msgstr "FRI RÖRLIGHET"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:71
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:167
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:273
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:321
+msgid "One year"
+msgstr "Ett år"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:73
+msgid "Most Popular Plan"
+msgstr "Populäraste Plan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:108
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:156
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:204
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:252
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:308
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:356
+msgid "Yes"
+msgstr "Ja"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:109
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:157
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:205
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:253
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:309
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:357
+msgid "No"
+msgstr "Nej"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:119
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:215
+msgid "Two years"
+msgstr "Två år"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:121
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:217
+msgid "Best Offer"
+msgstr "Bästa Erbjudande"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:167
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:215
+msgid "FREE AIRLINE TICKETS"
+msgstr "GRATIS FLYGBILJETTER"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:169
+msgid "Standard Plan"
+msgstr "Standard Plan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:271
+msgid "MOST POPULAR PLAN"
+msgstr "POPULÄRASTE PLAN"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:273
+msgid "Free Movement"
+msgstr "Fri Rörlighet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:319
+msgid "STANDARD PLAN"
+msgstr "STANDARD PLAN"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:321
+msgid "Free Airline Tickets"
+msgstr "Gratis flygbiljetter"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:376
+msgid "Your total order"
+msgstr "Din totala beställning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:419
+msgid "Remove this offer"
+msgstr "Ta bort det här erbjudandet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:456
+msgid "Payment"
+msgstr "Betalning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:460
+msgid "We have saved a log of your IP number"
+msgstr "Vi har sparat en logg av ditt IP nummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:460
+msgid "to prevent credit card fraud. All fraud will be investigated"
+msgstr "för att förhindra kreditkortsbedrägeri. Alla bedrägerier kommer att undersökas."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:467
+msgid "Select your payment type"
+msgstr "Välj din betalningsform"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:473
+msgid "Credit card"
+msgstr "Kreditkort"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:480
+msgid "Direct debit"
+msgstr "Autogiro"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:491
+msgid "Name of account holder"
+msgstr "Namn på kontohavare"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:495
+msgid "Bank account"
+msgstr "Bankkonto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:499
+msgid "Bank code"
+msgstr "Bankkod"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:506
+msgid "Name on creditcard"
+msgstr "Namn på kreditkort"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:510
+msgid "16 digit Credit Card number (Front of card)"
+msgstr "16 siffrigt Kreditkortsnummer (Framsidan av kortet)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:514
+msgid "Expiry Date on Credit Card"
+msgstr "Kreditkortets Förfallodatum"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:541
+msgid "Security Number (Back of card)"
+msgstr "Kontrollsiffror (Baksidan av kortet)"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:546
+msgid "What is CVC or CVV?"
+msgstr "Vad är CVC eller CVV?"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:548
+msgid "CVC/CVV or CVV2/CVC2 is a 3-digit security code, written on the reverse side of your credit card"
+msgstr "CVC/CVV eller CVV2/CVC2 är en 3-siffrors säkerhetskod, skriven på baksidan av ditt kreditkort"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:550
+msgid "The code helps to ensure the cards validity when making online payment transactions and eliminates the risk of credit card fraud"
+msgstr "Koden säkerställer kortets giltighet när du gör online betalningstransaktioner och eliminerar risken för kreditkortsbedrägeri"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:554
+msgid "Visa & MasterCard´s"
+msgstr "Visa & MasterCard"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:556
+msgid "You will find the (CVC/CVV) 3 digits above the signature area on the reverse side of your Credit Card"
+msgstr "Du hittar (CVC/CVV) de 3 kontrollsiffrorna ovanför namnteckningsfältet på baksidan av ditt kreditkort"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:558
+msgid "If you have any problems using you Credit Card please contact our Credit Card Hotline on +44 207 100 1469"
+msgstr "Om du har några problem med att använda ditt kreditkort, vänligen kontakta vår kreditkorts direktlinje på +44 207 100 1469 "
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:567
+msgid "I accept the order. Please debit my account"
+msgstr "Jag godtar beställningen. Vänligen debitera mitt konto"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:569
+msgid "Processing"
+msgstr "Bearbetning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:579
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:40
+msgid "Authenticated by"
+msgstr "Autentiserad av"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:579
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:40
+msgid "Comodo Secure Sites"
+msgstr "Comodo Säkerhetssidor "
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:604
+msgid "I hereby confirm that the information above is correct and I agree to pay the amount shown"
+msgstr "Härmed bekräftar jag att informationen ovan är korrekt och jag accepterar att betala det belopp som anges"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:608
+msgid "Your Credit Card will be charged instantly and the charges will appear as www.usgco.com on your Credit Card statement"
+msgstr "Din kreditkort debiteras omedelbart och debiteringen visas som www.usgco.com på ditt kreditkorts utdrag"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:612
+msgid "Cancellation rights"
+msgstr "Rätt till Annullering"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:614
+msgid "\tAn application can be withdrawn within 8 days after it has been submitted online"
+msgstr "En applikation kan annuleras inom 8 dagar efter att den har skickats online"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:616
+msgid "Cancellations received within 8 days will receive a 100% refund. The cancellation is only valid when emailed to us"
+msgstr "Annulleringar mottagna inom 8 dagar, får 100 % återbetalning. Annullering är endast giltig, om den skickas med e-post till oss: support@usgco.com"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:637
+msgid "You must provide the name on the creditcard"
+msgstr "Du måste ange namn på kreditkortet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:640
+msgid "You must provide a valid 16 digit creditcard number"
+msgstr "Du måste ange ett giltigt 16-siffrors kreditkortsnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:643
+msgid "You must provide the month your creditcard expires"
+msgstr "Du måste ange den månad då ditt kreditkort går ut"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:646
+msgid "You must provide the year your creditcard expires"
+msgstr "Du måste ange det år då ditt kreditkort går ut"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply-step3.php:649
+msgid "You must provide the 3 digit security number on your creditcard"
+msgstr "Du måste ange de 3 kontrollsiffrorna på ditt kreditkort"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:45
+msgid "We are delighted that you have chosen to apply for the US Green Card Lottery so you can"
+msgstr "Vi är glada att du har valt att ansöka om US Green Card Lotteriet så att du kan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:45
+msgid "WIN, Live and Work in America"
+msgstr "VINNA, Bo och Arbeta i Amerika"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:45
+msgid "Please fill out the information required below"
+msgstr "Vänligen fyll i den information som krävs här nedan"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:58
+msgid "Personal Details"
+msgstr "Personlig informatioin"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:172
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:463
+msgid "Native Country"
+msgstr "Fosterland"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:179
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:470
+msgid "In most cases this means the country in which the applicant was born. However, if a person was born in an ineligible country but his/her spouse was born in an eligible country, such person can claim the spouse’s country of birth providing both the applicant and spouse are issued visas and enter the U.S. simultaneously. Also, if a person was born in an ineligible country, but neither of his/her parents was born there or resided there at the time of the birth, such person may be able to claim nativity in one of the parents’ country of birth"
+msgstr "I de flesta fall menas här det land där sökande föddes. Men om en person föddes i ett icke kvalificerat land men hans/hennes make/maka föddes i ett kvalificerat land, så kan personen hävda make/makas födelseland under förutsättning att sökande och make/maka ges visum och inreser till U.S. samtidigt. Även om en person föddes i ett icke kvalificerat land, men ingen av hans/henner föräldrar föddes där eller bodde där vid tiden för barnets födelse, så kan den personen hävda att en av föräldrarnas födelseländer som fosterland."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:187
+msgid "Contact Details"
+msgstr "Kontakt information"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:193
+msgid "Address"
+msgstr "Adress"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:233
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:263
+msgid "Country code"
+msgstr "Landskod"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:236
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:266
+msgid "Area code"
+msgstr "Riktnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:239
+msgid "Telephone No."
+msgstr "Telefonnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:269
+msgid "Mobile Phone No."
+msgstr "Mobiltelefon nummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:289
+msgid "Email address"
+msgstr "E-postadress"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:296
+msgid "Confirm Contact Email"
+msgstr "Bekräfta kontakt e-postadress"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:303
+msgid "Education Details"
+msgstr "Utbildningsinformation"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:308
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:478
+msgid "Education"
+msgstr "Utbildning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:310
+msgid "You must have a minimum of a high school diploma reflecting the completion of a full course of study (vocation schools or equivalency degrees are not acceptable) or be a skilled worker in an occurpation that requires at least two years of training or experience to qualify"
+msgstr "Du måste ha minst en gymnasieexamen som visar en fullständigt genomförd studiekurs (yrkesskolor eller likvärdigt är inte godtagbara) eller vara en kvalificerad arbetskraft i ett yrke som kräver minst två års utbildning eller arbetserfarenhet för att vara kvalificerad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:310
+msgid "visit"
+msgstr "besök"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:310
+msgid "this link will open in a new window"
+msgstr "den här länken kommer att öppnas i ett nytt fönster"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:310
+msgid "to see if your occurpation qualifies"
+msgstr "för att se om ditt yrke kvalificerar"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:310
+msgid "for a Diversity Visa."
+msgstr "för ett Diversity Visum."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:333
+msgid "Further Information"
+msgstr "Ytterligare information"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:338
+msgid "What is you current marital status?"
+msgstr "Vad är ditt nuvarande civilstånd?"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:339
+msgid "Unmarried"
+msgstr "Ogift"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:340
+msgid "Married"
+msgstr "Gift"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:341
+msgid "Divorced"
+msgstr "Skild"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:342
+msgid "Widowed"
+msgstr "Änka/änkling"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:343
+msgid "Legally Separated"
+msgstr "Lagligt separerad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:350
+msgid "Spouse Details"
+msgstr "Make/makas information"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:512
+msgid "Kids"
+msgstr "Barn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:517
+msgid "Number of unmarried children under the age of 21"
+msgstr "Antal ogifta barn under 21 år"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/apply.php:671
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:8
+msgid "Green Card Lottery"
+msgstr "Green Card Lotteriet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:11
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:12
+msgid "Apply today for your chance to win a green card"
+msgstr "Ansök idag och få chans att vinna ett Green Card"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:36
+msgid "Thank you for your interest in this year's US Green Card Lottery. The US Green Card Office gives you all the information you need as well as showing you how to enter the US Visa Lottery."
+msgstr "Tack för ditt intresse i detta års Green Card lotteri. Den här webbplatsen innehåller all information du behöver,  samt en beskrivning av hur man går med i Green Card lotteriet."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:39
+msgid "The Green Card Lottery"
+msgstr "Green Card Lotteriet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:39
+msgid "is officially called the Diversity Immigrant Visa Lottery, popularly known as the Green Card Lottery."
+msgstr "kallas officiellt för Diversity Immigrant VisaLottery (allmänt känd som Green Card lotteriet). Varje år utlottas 50 000 Green Cards till människor från hela världen. Målet med lotteriet är att ge ut Green Cards till individer födda i länder som under tidigare år haft låga nivåer av immigration till USA."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:42
+msgid "Each year 50,000 Green Cards will be issued to people from all over the world. The draw will take place through random computer generated lottery draw."
+msgstr "Varje år utdelas 50.000 Green Cards till människor över hela världen. Utlottningen sker med en datoriserad slumtalsgenerator."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:45
+msgid "Don't miss your chance to win a Green Card - apply online today and be one of the next lottery winners."
+msgstr "Missa inte din chans att vinna ett Green Card - Ansök online idag och bli en vinnare i nästa lotteri."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:50
+msgid "What is a Green Card?"
+msgstr "Vad är ett Green Card?"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:52
+msgid "A Green Card is a Permanent Residence Visa of the U.S.A.. A Green Card will give you legal right to work and live permanently in the United States. Green Card holders receive health, education and several other benefits. If you win a Green Card, you can apply for U.S. Citizenship at a later time. The Green Card does not affect your present citizenship. You and your family could be lucky winners if you act immediately!"
+msgstr "Ett Green Card är ett permanent uppehållsvisum för USA. Ett Green Card ger dig laglig rätt att arbeta och bo permanent i USA. Med ett Green Card får man sjukvård, utbildning, och många andra förmåner. Om du vinner ett Green Card, kan du ansöka om amerikanskt medborgarskap vid ett senare tillfälle. Ett Green Card påverkar inte ditt nuvarande medborgarskap. Du och din familj kan bli lyckliga vinnare om du agerar snabbt! Sök nu!"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/frontpage.php:57
+msgid "Work and live in the United States"
+msgstr "Bo och arbeta i USA"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/instructions.php:26
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/page.php:19
+msgid "This page is currently unpublished"
+msgstr "Den här sidan är för närvarande opublicerad"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:16
+msgid "Customer Login"
+msgstr "Kundinloggning"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:19
+msgid "One this pages you have 24 hours online access to our database that enable you to track the status of your application and make corrections to your notification address etc."
+msgstr "På de här sidorna har du 24 timmars direkt tillgång till vår databas som gör att du kan följa statusen för din ansökan och göra korrigeringar av din underrättelseadress etc."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:23
+msgid "Please keep your address etc. up-to-date to avoid delays in notification if you win the lottery"
+msgstr "Vänligen håll din adress etc. uppdaterad för att undvika förseningar av underrättelse om du vinner lotteriet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:29
+msgid "Please enter a valid customer number and password"
+msgstr "Vänligen fyll i ett giltigt kundnummer och lösenord"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:35
+msgid "Customer number"
+msgstr "Kundnummer"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:37
+msgid "Customer Password"
+msgstr "Kundlösenord"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:49
+msgid "Forgot your customer number?"
+msgstr "Glömt ditt kundnummer?"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:53
+msgid "Please enter the email you used when applying for the lottery"
+msgstr "Vänligen fyll i den e-postadress du använde när du ansökte till lotteriet"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:62
+msgid "Resend"
+msgstr "Skicka igen"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:69
+msgid "What is my password?"
+msgstr "Vad är mitt lösenord?"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:73
+msgid "Your password is your date of birth in the format DDMMYY."
+msgstr "Ditt lösenord är ditt födelsedatum i formatet DDMMYY."
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/login.php:76
+msgid "Example: If you were born on October 09, 1972 your password is 091072"
+msgstr "Exempel: Om du är född den 9:e oktober, 1972 så blir ditt lösenord 091072"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/remove-application.php:18
+msgid "You are about to remove your application at The US Green Card Office"
+msgstr "Du håller på att ta bort din ansökan till US Green Card Kontoret"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/remove-application.php:22
+msgid "Applicant name"
+msgstr "Sökandes namn"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/remove-application.php:26
+msgid "Signup date"
+msgstr "Registreringsdatum"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/remove-application.php:33
+msgid "Remove"
+msgstr "Ta bort"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/unsubscribe.php:11
+msgid "Fill out your e-mail address to unsubscribe to our newsletter"
+msgstr "Fyll i din e-postadress för att avbryta prenumerationen på vårt nyhetsbrev"
+
+#: /Users/simonjensen/Code/PHP/usgreencardoffice.com/theme/unsubscribe.php:15
+msgid "Your e-mail"
+msgstr "Din e-postadress"
+
+#~ msgid "Action"
+#~ msgstr "Födelseland"
+
+#~ msgid "Date of birth"
+#~ msgstr "Födelsedatum"
+
+#~ msgid "YES"
+#~ msgstr "JA"
+
+#~ msgid "I want to enter the"
+#~ msgstr "Jag vill vara med i"
+
+#~ msgid ""
+#~ "I accept that I am obliged to pay a processing fee when placing an order "
+#~ "to the USA Visa Lottery. All customer data is for internal use only and "
+#~ "will be treated completely confidential."
+#~ msgstr ""
+#~ "Jag accepterar att jag kommer att behöva betala en serviceavgift när jag "
+#~ "skickar in en beställning."
+
+#~ msgid "VERY IMPORTANT"
+#~ msgstr "MYCKET VIKTIGT"
+
+#~ msgid ""
+#~ "You may ONLY use the English alphabet (A to Z) in the Applications form."
+#~ msgstr ""
+#~ "Du kan ENDAST använda det engelska alfabetet (A till Z) i "
+#~ "ansökningsblanketten."
